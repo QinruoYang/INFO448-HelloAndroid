@@ -1,3 +1,5 @@
+"Show surface updates", when enabled, displays a colored overlay on the screen to indicate areas of the user interface that are being updated or redrawn by the system. It can help us identify which parts of our app's UI are causing excessive updates.
+
 # UW Homework: Hello Android
 This homework is designed to force you to ensure that the tools are correctly installed on your machine, and that you can:
 
